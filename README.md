@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rubilei
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, Sou Rubilei Peixoto
+- 👀 Sou Professor de Informática
+- 🌱 Formado em Processamento de Dados pela UNICESUMAR
+- 💞️ PÓS Graduado em WEB-DESIGNE pela UNICESUMAR
+- 📫 MEU EMAIL: rubilei.peixoto@gmail.com
 
 <!---
 Rubilei/Rubilei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
