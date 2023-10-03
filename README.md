@@ -1,5 +1,5 @@
 - 👋 Olá, Sou Rubilei Peixoto
-- 👀 Sou Professor de Informática
+- 👀 Professor de Informática
 - 🌱 Formado em Processamento de Dados pela UNICESUMAR
 - 💞️ PÓS Graduado em WEB-DESIGNE pela UNICESUMAR
 - 📫 MEU EMAIL: rubilei.peixoto@gmail.com
